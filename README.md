@@ -1,4 +1,4 @@
-# ForTheSharpies
+# For The Sharpies [.NET]
 
 ## [Presentación del curso](documentation/Presentacion.md)
 
